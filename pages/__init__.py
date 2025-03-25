@@ -1,6 +1,7 @@
-__all__=['Home','About','main','Project','ContactMe']
-from . import Home
-from . import About
-from .. import main
-from . import Project
-from . import ContactMe
+# __all__=['Home','About','main','Project','ContactMe']
+from .Home import home
+# from .About import About
+# from . import main
+# from . import Project
+# from . import ContactMe
+

@@ -11,4 +11,4 @@ def home():
             
             st.image('download.jpeg')
 
-home()
+# home()
